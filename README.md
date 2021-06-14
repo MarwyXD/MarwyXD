@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarwyXD
 - 👀 My bigest hobby is doing electronics, programing and so on.
-- 🌱 I’m currently trying to learn something about PLCs, how to program them and how to work with them, but thats what im currently doing in school, on my own i’m still 
-      learning new things
+- 🌱 I’m currently trying to learn how to program in some other platforms, like BASCOM 
 - 💞️ I’m looking to collaborate on new electronics projects
 - 📫 I’m form Czech republic, but my posts will be only in (somehow trying to type it all good) english
 
